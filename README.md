@@ -1,4 +1,4 @@
-# Covid-19-Second-Wave-Analysis
+# Covid-19 Second Wave Analysis
 Peer analysis of the increase in covid-19 cases in India
 
 What is Corona Virus :
